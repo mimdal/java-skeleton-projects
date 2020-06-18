@@ -1,2 +1,2 @@
-# phone-book-assignment
+# java-skeleton-projects
 based on spring boot, lombok, spring data, ...
